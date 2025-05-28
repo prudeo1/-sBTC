@@ -748,7 +748,11 @@ footer {
   }
 
   .raccoon-logo {
-    width: 180px;
+    width: 200px;
+  }
+
+  .logo-container{
+    width: 200px;
   }
 
   .section-title {
